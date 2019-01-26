@@ -27,7 +27,7 @@ The validation images should be in a folder named 'validation_split' and must be
 ## Citation
 Please cite our work as
 ```
-@inproceedings{,
+@inproceedings{zhu2018quaternion,
   title={Quaternion Convolutional Neural Networks},
   author={Xuanyu Zhu, Yi Xu, Hongteng Xu and Changjian Chen},
   booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
