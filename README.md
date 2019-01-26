@@ -10,7 +10,7 @@ Scipy
 
 PIL
 
-scikit-image
+Scikit-image
 ## quaternion_layers 
 It contains implementation of quaternion version of convolutional layer and fully-connected layer, called QConv and QDense.
 They can be applied in same way as normal layers, note that they will consider the inputs and outputs as pure quaternions, which means the number of input/output channels must be multiple of three.
