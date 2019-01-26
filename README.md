@@ -14,4 +14,6 @@ This code is heavily borrowed from [Deep Complex Networks](https://github.com/Ch
 ## cifar10_cnn.py
 It's the one of the examples that Keras gives. The layers are replaced by quaternion layers.
 ## denoising.py
-It uses a U-net for denoising. A training set and a validation set are needed to run this file. The input size is 128x128. The training images should be in a folder named 'dataset' and must be at least 128x128. 128x128 patches will be randomly cropped when training. The validation images should be in a folder named 'validation_split' and must be 128x128.
+It uses a U-net for denoising. A training set and a validation set are needed to run this file. The input size is 128x128. 
+The training images should be in a folder named 'dataset' and must be at least 128x128. 128x128 patches will be randomly cropped when training. 
+The validation images should be in a folder named 'validation_split' and must be 128x128.
