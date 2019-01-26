@@ -3,9 +3,13 @@ Implementation of Quaternion Convolutional Neural Networks
 
 ## Requirements
 Keras(The writer's version is 2.1.3, with Tensorflow backend 1.4.1)
+
 Numpy
+
 Scipy
+
 PIL
+
 scikit-image
 ## quaternion_layers 
 It contains implementation of quaternion version of convolutional layer and fully-connected layer, called QConv and QDense.
