@@ -24,7 +24,7 @@ It uses a U-net for denoising. A training set and a validation set are needed to
 The training images should be in a folder named 'dataset' and must be at least 128x128. 128x128 patches will be randomly cropped when training. 
 
 The validation images should be in a folder named 'validation_split' and must be 128x128.
-##Citation
+## Citation
 Please cite our work as
 ```
 @inproceedings{arandjelovic2018objects,
